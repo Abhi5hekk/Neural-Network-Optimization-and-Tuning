@@ -5,9 +5,14 @@ I uses the PyTorch dataset API to load a dataset with exactly the same propertie
 
 Some of the characteristics are mentioned below.
 
-*28x28 images*
-10 classes
-Single color channel (B&W)
-Centered objects
-50000 training set members
-10000 test set members
+1. 28x28 images 
+
+2. 10 classes
+
+3. Single color channel (B&W)
+
+4. Centered objects
+
+5. 50000 training set members
+
+6. 10000 test set members
